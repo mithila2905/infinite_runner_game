@@ -1,2 +1,2 @@
-# infinite_runner_game
-proj_39_40
+# Project 38,39
+Output Link : https://vedantkubal2008.github.io/PROJECTS/
